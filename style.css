@@ -96,4 +96,9 @@ body {
     display: table;
     clear: both;
   }
-
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: #203540;
+  color: black;
+}
